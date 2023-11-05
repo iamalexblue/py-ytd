@@ -17,6 +17,8 @@ All the code in the repository comes from chatGPT, and I just wanted to learn Py
 
 py-ytd is the first program I wrote with chatGPT, which is a Python script to download YouTube videos.
 
+<img src="https://fastly.jsdelivr.net/gh/iamalexblue/jsDelivrCDN@master/16991936559311699193655576.png" alt="py-ytd" style="display: block; margin: 0 auto; width: 75%;">
+
 ### Which implemented:
 
 - Download YouTube videos via pytube. 

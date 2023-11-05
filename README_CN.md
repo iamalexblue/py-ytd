@@ -11,6 +11,8 @@
 ## py-ytd 
  py-ytd 是我用 chatGPT 编写的第一个程序，这是一个用于下载 YouTube 视频的 Python 脚本。
 
+ <img src="https://fastly.jsdelivr.net/gh/iamalexblue/jsDelivrCDN@master/16991936559311699193655576.png" alt="py-ytd" style="display: block; margin: 0 auto; width: 75%;">
+
 ### 已实现:
  - 通过 pytube 下载 YouTube 视频。
  - 对于把Python 当作一门工具语言的新手而言一个友好的下载工具。
